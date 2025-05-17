@@ -222,6 +222,9 @@ def view_raw_data(df):
             row += 5
         elif raw_data.lower() == 'no':
             break
+        else:
+            print("\nInvalid input. Please type 'yes' or 'no'.\n")
+            continue
 
 def main():
     while True:
