@@ -10,6 +10,7 @@ MY PROJECT
 
 ### Description
 Describe what your project is about and what it does
+My project is about data analysis
 
 ### Files used
 Include the files used
